@@ -1,0 +1,3 @@
+[while ((ch = fge][e = blank][ate == normal)
+		{
+			fpu]
